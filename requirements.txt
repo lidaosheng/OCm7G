@@ -1,0 +1,12 @@
+lightgbm==3.2.1
+lime==0.2.0.1
+matplotlib==3.3.4
+MLstatkit==0.1.7
+numpy==1.19.5
+pandas==1.1.5
+scikit-learn==0.24.2
+scikit-optimize==0.9.0
+scipy==1.4.1
+xgboost==1.4.2
+xlrd==1.2.0
+
